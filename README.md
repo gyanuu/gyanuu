@@ -1,6 +1,13 @@
 # 💫 Hi 👋, I'm Gyaneshwar Singh
 **A passionate Full-Stack Developer || Problem Solver**
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 Email Me 👉 ✉️ **gyaneshwarsingh8986@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Multi-Vendor E-Commerce
 - 🌱 **I’m currently learning:** React
@@ -17,11 +24,7 @@ Email Me 👉 ✉️ **gyaneshwarsingh8986@gmail.com** For Collaboration/Project
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rextarzgyanu_2608) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gyaneshwar2608) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyaneshwarsingh8986@gmail.com) 
 
 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
