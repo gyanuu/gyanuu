@@ -6,7 +6,7 @@
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/gyanuu/gyanuu/output/snake-dark.svg" alt="Snake animation" />
----
+
 
 ### 📫 Reach Me At
 <div align="center">
