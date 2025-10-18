@@ -5,7 +5,10 @@
 ---
 
 <!-- Snake Animation -->
-![GitHub Snake Animation](https://raw.githubusercontent.com/gyanuu/gyanuu/output/github-contribution-grid-snake.svg)
+# My GitHub Profile
+
+<img src="https://raw.githubusercontent.com/gyanuu/gyanuu/output/snake-dark.svg" alt="Snake animation" />
+
 
 
 
