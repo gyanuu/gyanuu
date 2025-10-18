@@ -5,9 +5,8 @@
 ---
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/gyanuu/gyanuu/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</div>
+![GitHub Snake Animation](https://github.com/gyanuu/gyanuu/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
