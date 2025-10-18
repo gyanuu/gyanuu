@@ -5,7 +5,9 @@
 ---
 
 <!-- Snake Animation -->
-<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
+<div align="center">
+  <img src="https://github.com/gyanuu/gyanuu/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
 ---
 
@@ -102,11 +104,10 @@
 <div align="center">
   
 ### 👁️ Visitor Count  
-![](https://visitcount.itsvg.in/api?id=Gyanugyanuu&label=Profile%20Views&color=12&icon=5&pretty=true)
+![](https://visitcount.itsvg.in/api?id=gyanuu&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 </div>
 
 ---
 
 ⭐️ **"Code. Create. Collaborate. Repeat."**
-
