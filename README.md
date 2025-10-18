@@ -64,9 +64,9 @@
 ### 📊 GitHub Stats & Activity
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Gyanu2608&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
-![](https://streak-stats.demolab.com?user=Gyanu2608&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanu2608&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gyanuu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
+![](https://streak-stats.demolab.com?user=gyanuu&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanuu&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
@@ -75,7 +75,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Gyanu2608&theme=radical&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=gyanuu&theme=radical&no-frame=true&margin-w=10)
 
 </div>
 
