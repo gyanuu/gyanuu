@@ -93,7 +93,7 @@
 ### 🔝 Top Contributed Repositories
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Gyanu2608&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gyanuu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -102,7 +102,7 @@
 <div align="center">
   
 ### 👁️ Visitor Count  
-![](https://visitcount.itsvg.in/api?id=Gyanu2608&label=Profile%20Views&color=12&icon=5&pretty=true)
+![](https://visitcount.itsvg.in/api?id=Gyanugyanuu&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 </div>
 
