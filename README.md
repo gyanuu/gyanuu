@@ -5,7 +5,8 @@
 ---
 
 <!-- Snake Animation -->
-![GitHub Snake Animation](https://github.com/gyanuu/gyanuu/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/gyanuu/gyanuu/output/github-contribution-grid-snake.svg)
+
 
 
 ---
