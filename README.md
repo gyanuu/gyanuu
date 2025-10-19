@@ -19,7 +19,7 @@
 ---
 
 ### 💡 About Me  
-- 🔭 **Currently Working On:** Multi-Vendor E-Commerce Platform  
+- 🔭 **Currently Working On:** Full Stack Project 
 - 🌱 **Currently Learning:** React.js & Cloud Technologies  
 - 👯 **Looking To Collaborate On:** MERN / Cloud / AI-integrated Projects  
 - 💬 **Ask Me About:** Web Development, Collaboration, or Tech Support  
