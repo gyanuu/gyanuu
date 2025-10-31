@@ -22,7 +22,7 @@
 - 🔭 **Currently Working On:** Real-Estate App
 - 🌱 **Currently Learning:** React.js & Cloud Technologies  
 - 👯 **Looking To Collaborate On:** MERN / Cloud / AI-integrated Projects  
-- 💬 **Ask Me About:** Web Development, Collaboration, or Tech Support.
+- 💬 **Ask Me About:** Web Development, Collaboration, or Tech Support
 - ⚡ **Fun Fact:** I Love Tech — and Tech Loves Me 😄  
 
 ---
