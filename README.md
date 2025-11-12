@@ -19,7 +19,7 @@
 ---
 
 ### 💡 About Me  
-- 🔭 **Currently Working On:** Video Calling Interview Platform React.
+- 🔭 **Currently Working On:** Video Calling Interview Platform.
 - 🌱 **Currently Learning:** React.js & Cloud Technologies  
 - 👯 **Looking To Collaborate On:** MERN / Cloud / AI-integrated Projects  
 - 💬 **Ask Me About:** Web Development, Collaboration, or Tech Support
