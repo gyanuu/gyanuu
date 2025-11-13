@@ -61,13 +61,7 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=gyanuu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
-![](https://streak-stats.demolab.com?user=gyanuu&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanuu&theme=radical&hide_border=false&layout=compact)
-
-</div>
+<div align="center"> <!-- Main Stats --> <img src="https://github-readme-stats.vercel.app/api?username=gyanuu&show_icons=true&theme=radical" height="180" /> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=gyanuu&theme=radical" height="180" /> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanuu&layout=compact&theme=radical" height="180" /> </div>
 
 ---
 
