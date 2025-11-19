@@ -2,24 +2,46 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Execute every 12 hours at 00:00 and 12:00 UTC
     - cron: "0 */12 * * *"
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
   push:
     branches: [ main, master ]
+
+permissions:
+  contents: write   # Allow pushing to repo
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: false   # Prevents branch lock conflicts
 
 jobs:
   generate:
     name: Generate Snake Animation
-    permissions:
-      contents: write  # Required for pushing to the repository
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full history)
         uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0     # IMPORTANT fix
+
+      - name: Ensure output branch exists (avoid lock issues)
+        run: |
+          git fetch origin output || true
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            echo "Output branch exists. OK."
+          else
+            echo "Creating output branch..."
+            git checkout --orphan output
+            git rm -rf .
+            echo "initial" > README.md
+            git add .
+            git commit -m "Initialize output branch"
+            git push origin output --force
+            git checkout main
+          fi
+
       - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
@@ -28,7 +50,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
             dist/snake-custom.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8cc8ff,#64b5f6,#42a5f5,#2196f3
-          
+
       - name: Show build status
         run: |
           echo "✅ Snake animation generated successfully!"
@@ -39,7 +61,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false  # Prevents bloating the branch history
+          keep_history: false
           commit_message: "🐍 Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
