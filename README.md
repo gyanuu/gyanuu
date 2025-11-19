@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Gyaneshwar Singh</h1>
+<h1 align="center">👋 Hi,I'm Gyaneshwar Singh</h1>
 <h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
