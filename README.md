@@ -24,7 +24,7 @@
 - 🌱 **Learning:** React.js, Cloud Computing  
 - 👯 **Collaborating On:** MERN / Cloud / AI-Based Projects  
 - 💬 **Ask Me About:** Web Development or Project Collaboration  
-- ⚡ **Fun Fact:** I love tech — and tech loves me 😄  
+- ⚡ **Fun Fact:** I love tech — and tech loves me. 😄  
 
 ---
 
