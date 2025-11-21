@@ -87,13 +87,4 @@
 <!-- QUOTE_SECTION_END -->
 
 
----
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gyanuu&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ⭐️ <b>"Code. Create. Collaborate. Repeat."</b>
