@@ -1,5 +1,5 @@
-import fs from "fs";
-import fetch from "node-fetch";
+const fs = require("fs");
+const fetch = require("node-fetch");
 
 async function run() {
   const url = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical";
@@ -12,31 +12,28 @@ async function run() {
 
   const file = "last_quote.txt";
 
-  // Previous quote
+  // Read previous quote
   let oldQuote = "";
   if (fs.existsSync(file)) {
     oldQuote = fs.readFileSync(file, "utf8");
   }
 
-  // If NO change → exit
+  // If quote not changed, stop
   if (oldQuote === quote) {
     console.log("NO_CHANGE");
     return;
   }
 
-  // Write new quote
+  // Save new quote
   fs.writeFileSync(file, quote);
 
-  // -------- Update README content dynamically --------
+  // Update README
   const readme = fs.readFileSync("README.md", "utf8");
 
-  const newBlock = `
-<p align="center">
+  const newBlock = `<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Date.now()}" />
-</p>
-`;
+</p>`;
 
-  // Replace between QUOTE_SECTION_START and QUOTE_SECTION_END
   const updatedReadme = readme.replace(
     /<!-- QUOTE_SECTION_START -->([\s\S]*?)<!-- QUOTE_SECTION_END -->/,
     `<!-- QUOTE_SECTION_START -->${newBlock}<!-- QUOTE_SECTION_END -->`
