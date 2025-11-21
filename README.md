@@ -80,9 +80,12 @@
 ---
 
 ### ✍️ Developer Quote
+<!-- QUOTE_SECTION_START -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+<!-- QUOTE_SECTION_END -->
+
 
 ---
 
