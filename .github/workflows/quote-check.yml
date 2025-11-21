@@ -1,0 +1,37 @@
+name: Commit on Quote Change
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # checks every hour
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install node-fetch@2
+
+      - name: Run script
+        id: quote
+        run: |
+          OUTPUT=$(node fetch-quote.js)
+          echo "result=$OUTPUT" >> $GITHUB_OUTPUT
+
+      - name: Commit if quote changed
+        if: steps.quote.outputs.result == 'QUOTE_CHANGED'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add last_quote.txt
+          git commit -m "Quote changed: auto-update"
+          git push
