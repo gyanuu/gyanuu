@@ -103,7 +103,9 @@
   <br>
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=gyanuu&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="streak graph" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gyanuu&theme=highcontrast)](https://git.io/streak-stats)
+
+
 </div>
 
 ---
