@@ -97,7 +97,7 @@
   <br><br>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanuu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanuu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanuu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
   
   <br>
