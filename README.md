@@ -36,7 +36,7 @@
         <li>🔭 <b>Building:</b> A seamless <b>Video Interview Interface</b> using Node.js & React.</li>
         <li>🌱 <b>Exploring:</b> The world of <b>Cloud Computing (AWS/GCP)</b> & <b>Docker</b>.</li>
         <li>👯 <b>Let's Team Up:</b> I love <b>Hackathons in India</b> and <b>Open Source</b> collaboration.</li>
-        <li>🧠 <b>My Approach:</b> I solve complex problems with simple, clean logic..</li>
+        <li>🧠 <b>My Approach:</b> I solve complex problems with simple, clean logic.</li>
         <li>⚡ <b>Fun Fact:</b> I turn ☕ Coffee into Code and 🐛 Bugs into Features!</li>
       </ul>
     </td>
