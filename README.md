@@ -1,123 +1,59 @@
-<!-- 1. HEADER SECTION -->
+<h1 align="center">Hi, I'm gyanu</h1>
 <div align="center">
-  
-  <!-- Waving Name Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:3c40c6&height=120&section=header&text=Gyaneshwar%20Singh&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%" />
-  
-  <!-- Typing Tagline (Replaces static H3 for better look) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3C40C6&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🐛+Problem+Solver;☁️+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+  <br>
 
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/gyanuu/gyanuu/output/snake-dark.svg" alt="Snake animation" width="100%" />
-
-  <br/>
-
-  <!-- Social Icons -->
-  <p align="center">
-   <a href="mailto:gyaneshwarsingh8986@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
-<a href="https://fb.com/GyaneshwarSingh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  /></a>
-<a href="https://instagram.com/rextarzgyanu_2608"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
-<a href="https://www.linkedin.com/in/gyanuu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
-<a href="https://twitter.com/Gyaneshwar2608" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
-<a href="https://www.youtube.com/channel/commingsoon" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
-<a href="https://leetcode.com/Gyanu_2604/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
-  </p>
-</div>
-
----
-<!-- 2. ABOUT ME SECTION -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="center">
-      <h2>⚡ About Me</h2>
-      <ul>
-        <li>🔭 <b>Building:</b> A seamless <b>Video Interview Interface</b> using Node.js & React.</li>
-        <li>🌱 <b>Exploring:</b> The world of <b>Cloud Computing (AWS/GCP)</b> & <b>Docker</b>.</li>
-        <li>👯 <b>Let's Team Up:</b> I love <b>Hackathons in India</b> and <b>Open Source</b> collaboration.</li>
-        <li>🧠 <b>My Approach:</b> I solve complex problems with simple, clean logic.</li>
-        <li>⚡ <b>Fun Fact:</b> I turn ☕ Coffee into Code and 🐛 Bugs into Features!</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+I am a passionate Full-Stack Developer with a strong foundation in **JavaScript, MERN Stack, and Backend Development**
 
 
----
+<a href="mailto:gyaneshwarsingh8986@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a> <a href="https://fb.com/GyaneshwarSingh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo" /></a> <a href="https://instagram.com/rextarzgyanu_2608"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" /></a> <a href="https://www.linkedin.com/in/gyanuu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" /></a> <a href="https://twitter.com/Gyaneshwar2608" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" /></a> <a href="https://www.youtube.com/channel/commingsoon" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" /></a> <a href="https://leetcode.com/Gyanu_2604/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo" /></a>
 
-<!-- 3. TECH STACK SECTION -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-<div align="center">
+🔭 Currently working on Full-Stack (MERN) projects.
 
-**Frontend**  
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+🌱 Learning Cloud Computing & System Design
 
-<br>
+<br />
 
-**Backend & Database**  
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+## Skills
+### Languages ⚡
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<!-- C -->
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+### Back-end ⚙
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br>
+### Cloud ☁
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-**Cloud & Tools**  
-<br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-<!-- 4. STATS DASHBOARD -->
-<h3 align="center">📊 Coding Statistics</h3>
-
-<div align="center">
-  <!-- LeetCode (Radical Theme) -->
-  <img src="https://leetcard.jacoblin.cool/Gyanu_2604?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  
-  <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanuu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanuu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-  
-  <br>
-  
-  <!-- Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gyanuu&theme=highcontrast)](https://git.io/streak-stats)
+### Collaboration
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black)" />
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
 
-</div>
+### Tools
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white" />
 
----
 
-<!-- 5. FOOTER SECTION (WAVE ADDED) -->
-<div align="center">
-  
-  <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  
-  <br><br>
-  
-  <!-- Views -->
-  <img src="https://komarev.com/ghpvc/?username=gyanuu&label=Profile%20Views&color=ff4081&style=flat-square" alt="gyanuu" />
-  
-  <br><br>
-  
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:3c40c6&height=100&section=footer" width="100%" />
+### Databases 📦
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+<br/>
 </div>
